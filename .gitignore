@@ -97,7 +97,4 @@ intermediate
 .idea
 cache
 release
-/vuejs/examples/
-/vuejs/build/
-/_EXAMPLES/
-/_code_examples/
+
